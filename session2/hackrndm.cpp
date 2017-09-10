@@ -1,3 +1,5 @@
+// http://www.spoj.com/problems/HACKRNDM/
+
 #include<iostream>
 #include<bits/stdc++.h>
 
